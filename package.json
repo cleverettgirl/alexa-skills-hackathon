@@ -1,0 +1,15 @@
+{
+  "name": "alexa-skills-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "lodash": "^4.17.4"
+  }
+}
