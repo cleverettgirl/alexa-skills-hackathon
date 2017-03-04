@@ -1,0 +1,3 @@
+GetExchangeRate to convert {amount} {exchangeFrom} to {exchangeTo}
+GetExchangeRate convert {amount} {exchangeFrom} to {exchangeTo}
+GetExchangeRate convert a {amount} {exchangeFrom} to {exchangeTo}
